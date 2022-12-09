@@ -1,9 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
 
+html {
+    height: 100%;
+}
 main {
     background-color: rgb(246, 220, 220);
     width: 100%;
-    height: 1200px;
     font-family: 'Itim', cursive;
 }
 
